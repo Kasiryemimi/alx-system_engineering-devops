@@ -1,1 +1,1 @@
-shell_basic
+where am i
