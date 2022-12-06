@@ -1,2 +1,2 @@
 #!/snap/bin
-/tmp/0x03$ source ./2-path
+/tmp/0x03$ echo $PATH
