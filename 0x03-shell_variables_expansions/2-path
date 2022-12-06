@@ -1,2 +1,2 @@
-#!/bin/bash
+#!/snap/bin
 /tmp/0x03$ echo $PATH
