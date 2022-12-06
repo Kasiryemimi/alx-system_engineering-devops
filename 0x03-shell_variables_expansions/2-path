@@ -1,2 +1,2 @@
-#!/snap/bin
-/tmp/0x03$ echo $PATH
+#!/bin/bash
+PATH=$PATH:/action
